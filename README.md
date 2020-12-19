@@ -1,4 +1,4 @@
-# Analysis of Migration Discourse in the Media using Natural Langugage Processing
+# Analysis of Migration Discourse in the Media using Natural Language Processing
 
 This repository contain the code used to create a final report (`geographic_analysis_immigration_discourse.pdf`) for Matthew Denny's PPOL628 - Text as Data: Computational Linguistics for Social Sciences course in Spring 2021. I was interested in whether or not the source or destination region of immigration would affect the discourse surrounding the immigrants, particularly in the news media, and wanted to use Natural Language Processing (NLP) techniques to explore this question. All the source code is contained in the `src/` directory.
 
